@@ -19,6 +19,17 @@ Corre la aplicación y abrir en el navegador [http://localhost:3000](http://loca
 
 La pagina se recargara cada que existan cambios ne el codigo.\
 
+### Demo:
+* La aplicación en el inicio permite ver algunos de los personajes de la serie:
+
+![image](https://user-images.githubusercontent.com/25518891/172439508-c979d4cc-549f-4efb-8f89-20905c571734.png)
+
+* Tambien podremos buscar algun personaje en epecifico con ayuda de la caja de busqueda
+ 
+![demo_gif_examen](https://user-images.githubusercontent.com/25518891/172439962-b5d1346a-a183-4d8e-8172-73bcefd94828.gif)
+
+* Si escribimos mal un personaje o no introducimos un nombre mandara error o mensaje de que lo que buscamos no existe:
+![error_busqueda](https://user-images.githubusercontent.com/25518891/172440302-cebb16f8-6d6e-4669-a312-f76b7fe42a4e.gif)
 
 ### Nota:
 

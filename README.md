@@ -1,5 +1,8 @@
-<img src="https://www.freepnglogos.com/pics/rick-and-morty" align="right" height="90" />
-# Examen prueba - Rick and Morty
+<img src="https://www.freepnglogos.com/uploads/rick-and-morty-png/rick-and-morty-portal-moon-mod-download-35.png" align="right" height="150" />
+
+## Examen vacante
+
+## Rick and Morty Demo
 
 **Desarrollador:** [[Pablo Bernal - 1405pablo@gmail.com](mailto:1405pablo@gmail.com)]
 ## Comandos para comenzar

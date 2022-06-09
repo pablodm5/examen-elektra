@@ -333,8 +333,8 @@ img {
 }
 
 .loader {
-  border: 16px solid #e3e3e3;
-  border-top: 16px solid #3498db;
+  border: 16px dotted #e3e3e3;
+  border-top: 16px dotted #3498db;
   border-radius: 50%;
   width: 140px;
   height: 140px;

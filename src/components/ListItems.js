@@ -66,9 +66,9 @@ export const ListItems = () => {
                 characters.map(character => {
                     return (
                             <div className="column" key={character.id+1}>
-                                <div className="card" key={character.id+2}>
+                                <div className="card transitions" key={character.id+2}>
                                     <div className="content" key={character.id+2}>
-                                        <img src={character.image} style={imgStyle}/>
+                                        <img src={character.image} className="imagen-lista"style={imgStyle}/>
                                         <div key={character.id}>
                                             {character.name} {character.type}
                                         </div>
